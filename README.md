@@ -10,8 +10,21 @@ A simple console-based Java application that uses JDBC to connect to a MySQL dat
 
 Uses JDBC with PreparedStatements (safe from SQL injection)
 
-# Download and install MySQL
+# 1). Download and install MySQL
 
 Make sure MySQL server is running and note your:      
 ###               1).Username (default: root)
 ###               2).Password
+
+# 2). Create Database and Table
+# 3). Clone Repository
+# 4). Configure Database Connection
+# 5). Compile and Run
+
+## 📌 Assumptions / Notes
+
+#### Tested with Java 8+ and MySQL 8+.
+#### Requires MySQL Connector/J (JDBC driver). Download from: MySQL Connector/Java
+#### Credentials must be updated in DatabaseConnection.java.
+
+### This is a console-based demo application (no GUI)
