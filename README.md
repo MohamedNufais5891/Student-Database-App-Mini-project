@@ -3,7 +3,7 @@
 IT 3003 - Advanced Programming Techniques- Student Database App Mini project use for java and sql code 
 A simple console-based Java application that uses JDBC to connect to a MySQL database and perform CRUD operations (Create, Read, Update, Delete) on student records.
 
-*Add new student records
+##*Add new student records##
 *View all students
 *Update existing student details
 *Delete students by ID
