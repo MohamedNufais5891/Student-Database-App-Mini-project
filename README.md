@@ -11,6 +11,7 @@ A simple console-based Java application that uses JDBC to connect to a MySQL dat
 Uses JDBC with PreparedStatements (safe from SQL injection)
 
 # Download and install MySQL from MySQL Downloads
+
 Make sure MySQL server is running and note your:      
 ###               1).Username (default: root)
 ###               2).Password
