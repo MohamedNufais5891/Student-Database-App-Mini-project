@@ -1,0 +1,6 @@
+<project name="student-database-app" default="compile">
+    <target name="compile">
+        <mkdir dir="build/classes"/>
+        <javac srcdir="src" destdir="build/classes" includeantruntime="false"/>
+    </target>
+</project>
